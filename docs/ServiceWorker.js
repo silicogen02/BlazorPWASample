@@ -1,4 +1,4 @@
-const baseURL = './';
+const baseURL = '/';
 const indexURL = '/index.html';
 const networkFetchEvent = 'fetch';
 const swInstallEvent = 'install';
